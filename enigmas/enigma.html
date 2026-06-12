@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cópia barata sem orçamento do Prisma.</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap"
+        rel="stylesheet">
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
+        crossorigin="anonymous">
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/enigma.css">
+</head>
+
+<body>
+    <main class="container py-5">
+
+        <div class="enigma-card">
+
+            <div class="enigma-header" >
+                <span class="badge bg-danger" id="numero"></span>
+                <h1 id="titulo"></h1>
+                <p id="pergunta">
+                </p>
+            </div>
+
+            <div class="resposta-box">
+
+                <label class="form-label">
+                    Digite sua resposta
+                </label>
+
+                <div class="input-group">
+                    <span class="input-group-text">@</span>
+                    <input
+                        type="text"
+                        class="form-control"
+                        placeholder="Sua resposta..."
+                        id = "resposta"
+                    >
+                </div>
+
+                <button class="btn btn-danger mt-3 w-100" onclick=" verifyResposta()">
+                    Verificar Resposta
+                </button>
+
+            </div>
+
+        </div>
+    </main>
+    <script src="../js/enigma.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</body>
+
+</html>
