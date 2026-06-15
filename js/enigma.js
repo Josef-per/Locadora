@@ -40,70 +40,70 @@ const enigmas = {
     6: {
         numero: "Enigma 06",
         titulo: "Transmissão",
-        pergunta: "Eu queria fazer de fitas VHS, mas só sei de músicas... de outro universo eu já fiz parte. Talvez isso te lembre alguém.",
+        pergunta: "Eu queria fazer de fitas VHS, mas eu só sei de músicas, ou de poesias, bem isso não vai ser sempre assim, pois vou ver o primeiro episódio de uma transmissão do outro lado, quem sabe até começo a ter um gosto de música bom kkkkkkk. Acho que posso começar com Ahlevo, hmmmmmm melhor não desse universo eu já fiz parte.",
         resposta: "Dante"
     },
 
     7: {
         numero: "Enigma 07",
         titulo: "Sexta-feira",
-        pergunta: "Quando você abre a porta toda vez pra mim na sexta sempre me sinto: I just wanna get high with my lover...",
+        pergunta: "Quando você abre a porta toda vez pra mim na sexta sempre me sinto: I just wanna get high with my lover, Veo una muñeca cuando miro en el espejo, Kiss, Kiss, looking dolly, I think I may go out tonight.",
         resposta: "Moonlight"
     },
 
     8: {
         numero: "Enigma 08",
         titulo: "Elementos",
-        pergunta: "Podemos ser fogo e água, opostos na teoria... mas ainda assim do mesmo universo.",
+        pergunta: "Podemos até ser de elementos diferentes como fogo e água, um opressor ao outro, bem na teoria.... mas sempre do mesmo universo",
         resposta: "Ordem Paranormal"
     },
 
     9: {
         numero: "Enigma 09",
         titulo: "Cartas",
-        pergunta: "Às vezes cartas escondem mais do que uma simples leitura... então quem é você nisso tudo?",
+        pergunta: " As vezes cartas podem esconder mais que em uma simples leitura, concorda ? Bem ent que você é ? ",
         resposta: "A minha nerd das artes"
     },
 
     10: {
         numero: "Enigma 10",
         titulo: "Dança",
-        pergunta: "Os coreanos da LNGSHOT podem tentar, mas nunca vão ser o rei do pop... ou vão?",
+        pergunta: "As vezes os coreanos da LNGSHOT podem fazer algo melhor que o rei do pop, eu duvido muito, eles nem dançam tanto quanto o nossa Minha Legal Jaqueta Filho",
         resposta: "Moonwalking"
     },
 
     11: {
         numero: "Enigma 11",
         titulo: "Retrospectiva",
-        pergunta: "Essa foi minha música de 2022... não sinto falta do ano, mas sinto de quem estava comigo.",
+        pergunta: "Bem no final do ano essa foi a minha música de retrospectiva que saudade dela em 2022, só não digo que tenho falta de 2022, pois não tinha minha estrela caida ao meu lado, de tão perfeita e paciente para estar comigo.",
         resposta: "As It Was"
     },
 
     12: {
         numero: "Enigma 12",
         titulo: "Fuga",
-        pergunta: "Você sempre quis fugir desse inferno... talvez a Kate Bush tenha a resposta.",
+        pergunta: "Eu vejo que vc sempre está querendo fugir desse inferno, eu lembro de alguem com você, talvez a Kate Bush te ensine a fazer uma negociação com Deus para conseguir sair correndo do inferno que te atormenta",
         resposta: "Running Up That Hill"
     },
 
     13: {
         numero: "Enigma 13",
         titulo: "Cyberpunk",
-        pergunta: "No meio desse caos, eu só queria um lugar pra ficar em paz... e eu encontrei isso e ____.",
+        pergunta: "Muitas vezes no dia eu me sinto igual em cyberpunk sozinho na lua, as pessoas podem achar até mesmo qe eu sou inabalável por sempre estar com essa cara amena, conversar com mesmo tão, mas eu só não aguento a maioria das coisas que me acontecem, eu só queria achar um lugar pra ficar em paz e esquecer de tudo, mas nem na minha casa eu tenho isso, contudo encontrei isso e ______ ",
         resposta: "I Really Want to Stay at Your House"
     },
 
     14: {
         numero: "Enigma 14",
         titulo: "Proteção",
-        pergunta: "Mesmo longe, você sempre me protegeu... como um ser místico.",
+        pergunta: "Bem sei que é uma locadora e eu só sei de música, eu adoro falar sobre música, eu até escuto suas músicas sigo os cantores que escuta, porque eu adoro falar de música. Voltando aos enigmas, você sempre me protegeu e bem mesmo estando longe de você sei que sempre estara comigo, como no album validations de Yung Li você seria um ser místico um:",
         resposta: "Anjo da Guarda"
     },
 
     15: {
         numero: "Enigma 15",
         titulo: "Final",
-        pergunta: "Qual vai ser o nome do nosso gato? SIM ESSE MESMO.",
+        pergunta: "Qual vai ser o nome do nosso gato ? SIM ESSE MESMO.",
         resposta: "Copo"
     }
 };
